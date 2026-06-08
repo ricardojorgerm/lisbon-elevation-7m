@@ -13,6 +13,8 @@ Coordinate system for the files:
 - EHdr/BIL WGS-84
 - .tif EPSG:3763
 
+<img width="684" height="720" alt="image" src="https://github.com/user-attachments/assets/e4af915c-a6b5-4a60-83a2-ae671a9337b8" />
+
 ## Usage
 
 Two formats are provided
