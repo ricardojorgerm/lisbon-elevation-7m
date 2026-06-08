@@ -13,6 +13,16 @@ Coordinate system for the files:
 - EHdr/BIL WGS-84
 - .tif EPSG:3763
 
+## Usage
+
+Two formats are provided
+
+- WGS-84 EHdr/BIL
+Decompress the gzip `aml_mdt.bil.gz` to `aml_mdt.bil` and use with  `aml_mdt.hdr` and `aml_mdt.prj`
+
+- EPSG:3763 .tif
+Can be imported directly to QGIS or other software
+
 ## Data source
 
 MDT-2m
